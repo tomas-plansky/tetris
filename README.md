@@ -1,4 +1,5 @@
 # Tetris
+> Hrát: https://tomas-plansky.github.io/
 
 ## 1. Základní koncepce
 Tetris je klasická herní hra, kde hráč uspořádává padající tvary bloků do herní matice. Cílem je vytvořit co nejvíce plných řádků, které se poté odstraní a hráč získá body. Hra končí, když se bloky dostanou až k hornímu okraji herní plochy. Hra se ovládá pomocí šipek a mezerníku.
